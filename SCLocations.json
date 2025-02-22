@@ -1,0 +1,127 @@
+[
+    {
+        "Name" : "RestStop_Stanton_1_EverusHarbor",
+        "LocationHash": 2920218645,
+        "Label": "Everus Harbor"
+    },
+    {
+        "Name" : "RestStop_Stanton_1_L1",
+        "LocationHash": 0,
+        "Label": "HUR-L1 Green Glade Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_1_L2",
+        "LocationHash": 1613918955,
+        "Label": "HUR-L2 Faithful Dream Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_1_L3",
+        "LocationHash": 0,
+        "Label": "HUR-L3 Thundering Express Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_1_L4",
+        "LocationHash": 0,
+        "Label": "HUR-L4 Melodic Fields Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_1_L5",
+        "LocationHash": 0,
+        "Label": "HUR-L5 High Course Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_2_Seraphim_Station",
+        "LocationHash": 1214126657,
+        "Label": "Seraphim Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_2_L1",
+        "LocationHash": 3815615760,
+        "Label": "CRU-L1 Ambitious Dream Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_2_L4",
+        "LocationHash": 2578865836,
+        "Label": "CRU-L4 Shallow Fields Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_2_L5",
+        "LocationHash": 0,
+        "Label": "CRU-L5 Beautiful Glen Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_3_BajiniPoint",
+        "LocationHash": 2748029682,
+        "Label": "Bajini Point"
+    },
+    {
+        "Name" : "RestStop_Stanton_3_L1",
+        "LocationHash": 1991385875,
+        "Label": "ARC-L1 Wide Forest Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_3_L2",
+        "LocationHash": 3853488454,
+        "Label": "ARC-L2 Lively Pathway Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_3_L3",
+        "LocationHash": 2273524489,
+        "Label": "ARC-L3 Modern Express Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_3_L4",
+        "LocationHash": 387501438,
+        "Label": "ARC-L4 Faint Glen Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_3_L5",
+        "LocationHash": 1654493165,
+        "Label": "ARC-L5 Yellow Core Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_4_PortTressler",
+        "LocationHash": 2756183015,
+        "Label": "Port Tressler"
+    },
+    {
+        "Name" : "RestStop_Stanton_4_L1",
+        "LocationHash": 1777030119,
+        "Label": "MIC-L1 Shallow Frontier Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_4_L2",
+        "LocationHash": 3620232784,
+        "Label": "MIC-L2 Long Forest Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_4_L3",
+        "LocationHash": 604022487,
+        "Label": "MIC-L3 Endless Odyssey Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_4_L4",
+        "LocationHash": 362141477,
+        "Label": "MIC-L4 Red Crossroads Station"
+    },
+    {
+        "Name" : "RestStop_Stanton_4_L5",
+        "LocationHash": 2418495177,
+        "Label": "MIC-L5 Modern Icarus Station"
+    },
+    {
+        "Name" : "JumpPoint_Stanton-Magnus",
+        "LocationHash": 2251809023,
+        "Label": "Magnus Gateway"
+    },
+    {
+        "Name" : "JumpPoint_Stanton-Pyro",
+        "LocationHash": 2251809023,
+        "Label": "Pyro Gateway"
+    },
+    {
+        "Name" : "JumpPoint_Stanton-Terra",
+        "LocationHash": 2835021348,
+        "Label": "Terra Gateway"
+    }
+]

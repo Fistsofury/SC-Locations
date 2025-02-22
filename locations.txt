@@ -1,0 +1,107 @@
+
+----------------------------------------STANTON----------------------------------------
+//Rest Stops (Stations)
+RestStop_Stanton_1_EverusHarbor, locationHash: 2920218645 = Everus Harbor
+RestStop_Stanton_2_L1, locationHash:  = HUR-L1 Green Glade Station
+RestStop_Stanton_1_L2, locationHash: 1613918955 = HUR-L2 Faithful Dream Station
+RestStop_Stanton_1_L3 = HUR-L3 Thundering Express Station
+RestStop_Stanton_1_L4 = HUR-L4 Melodic Fields Station
+RestStop_Stanton_1_L5 = HUR-L5 High Course Station
+
+RestStop_Stanton_2_Seraphim_Station, locationHash: 1514126657 = Seraphim Station
+RestStop_Stanton_2_L1, locationHash: 3815615760 = CRU-L1 Ambitious Dream Station
+RestStop_Stanton_2_L4, locationHash: 2578865836 = CRU-L4 Shallow Fields Station
+RestStop_Stanton_2_L5 = CRU-L5 Beautiful Glen Station
+
+RestStop_Stanton_3_BajiniPoint, locationHash: 2748029682 = Bajini Point
+RestStop_Stanton_3_L1, locationHash: 1991385875 = ARC-L1 Wide Forest Station
+RestStop_Stanton_3_L2, locationHash: 3853488454 = ARC-L2 Lively Pathway Station
+RestStop_Stanton_3_L3, locationHash: 2273524489 = ARC-L3 Modern Express Station
+RestStop_Stanton_3_L4, locationHash: 387501438 = ARC-L4 Faint Glen Station
+RestStop_Stanton_3_L5, locationHash: 1654493165 = ARC-L5 Yellow Core Station
+
+RestStop_Stanton_4_PortTressler, locationHash: 2756183015 = Port Tressler
+RestStop_Stanton_4_L1, locationHash: 1777030119 = MIC-L1 Shallow Frontier Station
+RestStop_Stanton_4_L2, locationHash: 3620232784 = MIC-L2 Long Forest Station
+RestStop_Stanton_4_L3, locationHash: 604022487 = MIC-L3 Endless Odyssey Station
+RestStop_Stanton_4_L4, locationHash: 362141477 = MIC-L4 Red Crossroads Station
+RestStop_Stanton_4_L5, locationHash: 2418495177 = MIC-L5 Modern Icarus Station
+
+
+//Jump JumpPoints 
+JumpPoint_Stanton-Magnus, locationHash: 2251809023 = Magnus Gateway
+JumpPoint_Stanton-Pyro, locationHash: 2251809023 = Pyro Gateway
+JumpPoint_Stanton-Terra, locationHash: 2835021348 = Terra Gateway
+
+//Planets / Moons
+Stanton IV = MicroTech 
+    Ghost Hollow
+    Drifter's
+    Harper's point
+    Dunboro
+    Astor's Clearing
+    Clear view emergency Shelter
+    Outpost_Rayari_Stanton4_DeltanaResearchOutpost = Rayari Deltana Research Outpost
+    Hela's Regret
+    The Barren's
+    Calhoun pass Emergency Shelter
+    Kelo Bottom
+    Nuiqsut Emergency Shelter
+    Outpost 54
+    Greycat Stanton IV Production Complex-A
+    The Necropolis
+    Raven's Roost 
+    Port Tressler = {locationName = RestStop_Stanton_4_PortTressler, locationHash = 2756183015}
+    New Babbage Interstellar Spaceport
+    MT OpCenter TLI-4
+    Shubin Mining Facility SMO-10
+    Shubin Mining Facility SMO-22
+    Shubin Mining Facility SMO-13
+    Shubin Mining Facility SMO-18
+    Cry-Astro Processing Plant 34-12
+    Cry-Astro Processing Plant 19-02
+    Sakura Sun Goldenrod Workcenter
+    MicroTech Logistics Depot S4LD13
+    MicroTech Logistics Depot S4LD01 
+    MT DataCenter 5WQ-R2V-C
+    MT DataCenter TMG-XEV-2
+    MT DataCenter E2O-NSG-Y 
+    MT DataCenter 2UB-RB9-5
+    MT DataCenter 4HJ-LVE-A
+    MT DataCenter QVX-J88-J 
+    MT DataCenter KH3-AAE-L
+    MT DataCenter D79-ECG-R 
+    MT DataCenter 8FK-Q2X-K
+    MT DataCenter L8P-JUC-8
+    Covalex Distribution Centre S4DC05
+    
+Stanton 4A = Callilope
+    Hasbin Hall 
+    Blighters Run 
+    Hard Knocks
+    Shubin Processing facility SPMC-11
+    Shubin Processing facility SPMC-14
+    Shubin Processing facility SPMC-3
+    Shubin Processing facility SPMC-5
+    Shubin Processing facility SPMC-10
+    Rayari Kaltag Research Outpost 
+    Outpost_Rayari_Stanton4a_RayariAnvikResearchOutpost, locationHash: 2703700682 = Rayari Anvik Research Outpost
+    Outpost_Mining_Admin_Stanton4a_ShubinMiningFacilitySMCa8, locationHash: 4208028493 = Shubin Mining Facility SMCA-8
+    Outpost_Mining_Admin_Stanton4a_ShubinMiningFacilitySMCa6, locationHash: 881688777 = Shubin Mining Facility SMCA-6
+    Regiment Downs
+    Comm Array ST4-31
+Stanton 4B = Clio
+    Tremonte
+    Kant's peak
+    Rayari Cantwell Research Outpost
+    Rayari Mcgrath Research Outpost
+    Comm Array ST4-59
+Stanton 4C = Euterpe
+    Bud's Growery
+    Shanks
+    Delvin Scrap and Salvage 
+    Comm Array ST4-64
+
+
+----------------------------------------PYRO----------------------------------------
+TBC
